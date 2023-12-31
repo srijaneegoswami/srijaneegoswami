@@ -2,8 +2,11 @@
 
 <h2>👨‍💻 List of Projects:</h2>
 
-- <b>Linear Regression with Python</b>
+- <b>Simple Linear Regression with Python</b>
   - [Salary and Years of Experience Analysis](http://localhost:8888/notebooks/Salary%20and%20Years%20of%20Experience%20Analysis.ipynb)
+
+- <b>Simple Logistic Regression with Python</b>
+  - [Breast Cancer Prediction](http://localhost:8888/notebooks/Cancer%20Prediction%20-%20Logistic%20Regression.ipynb)
 
 <h2>👨‍💻 List of Certifications:</h2>
 
