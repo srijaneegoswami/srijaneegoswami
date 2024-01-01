@@ -7,6 +7,9 @@
 
 - <b>Simple Logistic Regression with Python</b>
   - [Breast Cancer Prediction](http://localhost:8888/notebooks/Cancer%20Prediction%20-%20Logistic%20Regression.ipynb)
+ 
+- <b>Simple Logistic Regression and tackling unbalanced data with Python</b>
+  - [Credit Card Fraud Detection](http://localhost:8888/notebooks/Credit%20Card%20Fraud%20Detection%20using%20Python.ipynb)  
 
 <h2>👨‍💻 List of Certifications:</h2>
 
