@@ -12,7 +12,7 @@
   - [Credit Card Fraud Detection](http://localhost:8888/notebooks/Credit%20Card%20Fraud%20Detection%20using%20Python.ipynb)
  
 - <b>Random Forest Regression</b>
-  - [Gold Price Prediction](http://localhost:8888/notebooks/Gold%20Price%20Prediction%20with%20Random%20Forest%20Regression.ipynb#Gold-Price-Prediction-using-Random-Forest)
+  - [Gold Price Prediction](https://github.com/srijaneegoswami/srijaneegoswami/blob/main/Gold%20Price%20Prediction%20with%20RandomForest%20Regression.ipynb)
 
 
 <h2>👨‍💻 List of Certifications:</h2>
