@@ -3,10 +3,10 @@
 <h2>👨‍💻 List of Projects:</h2>
 
 - <b>Simple Linear Regression with Python</b>
-  - [Salary and Years of Experience Analysis](http://localhost:8888/notebooks/Salary%20and%20Years%20of%20Experience%20Analysis.ipynb)
+  - [Salary and Years of Experience Analysis]()
 
 - <b>Simple Logistic Regression with Python</b>
-  - [Breast Cancer Prediction](http://localhost:8888/notebooks/Cancer%20Prediction%20-%20Logistic%20Regression.ipynb)
+  - [Breast Cancer Prediction](https://github.com/srijaneegoswami/srijaneegoswami/blob/main/Cancer%20Prediction%20-%20Logistic%20Regression.ipynb)
  
 - <b>Simple Logistic Regression and tackling unbalanced data with Python</b>
   - [Credit Card Fraud Detection](http://localhost:8888/notebooks/Credit%20Card%20Fraud%20Detection%20using%20Python.ipynb)
