@@ -10,6 +10,9 @@
  
 - <b>Simple Logistic Regression and tackling unbalanced data with Python</b>
   - [Credit Card Fraud Detection](https://github.com/srijaneegoswami/srijaneegoswami/blob/main/Credit%20Card%20Fraud%20Detection%20using%20Python.ipynb)
+
+- <b>Simple Logistic Regression with Python</b>
+  - [Titanic Survival Prediction](https://github.com/srijaneegoswami/srijaneegoswami/blob/main/Titanic%20Survival%20Prediction%20with%20Logistic%20Regression.ipynb)
  
 - <b>Random Forest Regression</b>
   - [Gold Price Prediction](https://github.com/srijaneegoswami/srijaneegoswami/blob/main/Gold%20Price%20Prediction%20with%20RandomForest%20Regression.ipynb)
