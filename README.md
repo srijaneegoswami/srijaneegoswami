@@ -22,6 +22,9 @@
 
 - <b>Support Vector Regression</b>
   - [Loan Status Prediction](https://github.com/srijaneegoswami/srijaneegoswami/blob/main/Loan%20Status%20Prediction%20using%20Machine%20Learning.ipynb)
+ 
+- <b>Predicting Spam Mail using TfidfVectorizer</b>
+  - [Predicting Spam Mail](https://github.com/srijaneegoswami/srijaneegoswami/blob/main/Predicting%20Spam%20Mail%20using%20TfidfVectorizer%20(A%20Binary%20Classification%20Problem).ipynb)
 
 <h2>👨‍💻 List of Certifications:</h2>
 
