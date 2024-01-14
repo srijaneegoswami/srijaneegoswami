@@ -20,6 +20,8 @@
 - <b>Random Forest Regression</b>
   - [Gold Price Prediction](https://github.com/srijaneegoswami/srijaneegoswami/blob/main/Gold%20Price%20Prediction%20with%20RandomForest%20Regression.ipynb)
 
+- <b>Support Vector Regression</b>
+  - [Loan Status Prediction](https://github.com/srijaneegoswami/srijaneegoswami/blob/main/Loan%20Status%20Prediction%20using%20Machine%20Learning.ipynb)
 
 <h2>👨‍💻 List of Certifications:</h2>
 
