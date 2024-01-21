@@ -7,6 +7,9 @@
 
 - <b>Simple Logistic Regression with Python</b>
   - [Breast Cancer Prediction](https://github.com/srijaneegoswami/srijaneegoswami/blob/main/Cancer%20Prediction%20-%20Logistic%20Regression.ipynb)
+
+- <b>Diabetes Prediction using K Nearest Neighbors Algorithm</b>
+  - [Diabetes Prediction](https://github.com/srijaneegoswami/srijaneegoswami/blob/main/Predicting%20Diabetes%20using%20K%20Nearest%20Neighbors%20Algorithm.ipynb)
  
 - <b>Simple Logistic Regression and tackling unbalanced data with Python</b>
   - [Credit Card Fraud Detection](https://github.com/srijaneegoswami/srijaneegoswami/blob/main/Credit%20Card%20Fraud%20Detection%20using%20Python.ipynb)
