@@ -13,6 +13,9 @@
  
 - <b>Simple Logistic Regression and tackling unbalanced data with Python</b>
   - [Credit Card Fraud Detection](https://github.com/srijaneegoswami/srijaneegoswami/blob/main/Credit%20Card%20Fraud%20Detection%20using%20Python.ipynb)
+ 
+- <b>Customer Purchase Prediction using K Nearest Neighbors Algorithm</b>
+  - [Customer Purchase Prediction](https://github.com/srijaneegoswami/srijaneegoswami/blob/main/Model%20to%20Predict%20Purchase%20Behavior%20using%20KNN%20Algorithm.ipynb)
 
 - <b>Simple Logistic Regression with Python</b>
   - [Titanic Survival Prediction](https://github.com/srijaneegoswami/srijaneegoswami/blob/main/Titanic%20Survival%20Prediction%20with%20Logistic%20Regression.ipynb)
